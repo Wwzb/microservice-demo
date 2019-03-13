@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="microservicedemoapi" />
+        <module name="microservicedemoconsumerdept80" />
+        <module name="microservicedemoproviderdept8001" />
       </profile>
     </annotationProcessing>
   </component>

@@ -9,6 +9,8 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>microservicedemo-api</module>
+    <module>microservicedemo-provider-dept-8001</module>
+    <module>microservicedemo-consumer-dept-80</module>
   </modules>
   <packaging>pom</packaging>
 
