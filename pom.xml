@@ -11,6 +11,7 @@
     <module>microservicedemo-api</module>
     <module>microservicedemo-provider-dept-8001</module>
     <module>microservicedemo-consumer-dept-80</module>
+    <module>microservicedemo-eureka-7001</module>
   </modules>
   <packaging>pom</packaging>
 
