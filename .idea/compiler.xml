@@ -9,6 +9,8 @@
         <module name="microservicedemoapi" />
         <module name="microservicedemoconsumerdept80" />
         <module name="microservicedemoeureka7001" />
+        <module name="microservicedemoeureka7002" />
+        <module name="microservicedemoeureka7003" />
         <module name="microservicedemoproviderdept8001" />
       </profile>
     </annotationProcessing>
