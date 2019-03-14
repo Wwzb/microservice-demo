@@ -12,6 +12,8 @@
         <module name="microservicedemoeureka7002" />
         <module name="microservicedemoeureka7003" />
         <module name="microservicedemoproviderdept8001" />
+        <module name="microservicedemoproviderdept8002" />
+        <module name="microservicedemoproviderdept8003" />
       </profile>
     </annotationProcessing>
   </component>
