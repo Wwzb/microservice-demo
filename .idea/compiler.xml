@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="microservicedemoapi" />
         <module name="microservicedemoconsumerdept80" />
+        <module name="microservicedemoconsumerdeptfeign" />
         <module name="microservicedemoeureka7001" />
         <module name="microservicedemoeureka7002" />
         <module name="microservicedemoeureka7003" />
         <module name="microservicedemoproviderdept8001" />
         <module name="microservicedemoproviderdept8002" />
         <module name="microservicedemoproviderdept8003" />
+        <module name="springclouddemoproviderdepthystrix8001" />
       </profile>
     </annotationProcessing>
   </component>

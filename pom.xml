@@ -16,6 +16,8 @@
     <module>microservicedemo-eureka-7003</module>
     <module>microservicedemo-provider-dept-8002</module>
     <module>microservicedemo-provider-dept-8003</module>
+    <module>microservicedemo-consumer-dept-feign</module>
+    <module>springclouddemo-provider-dept-hystrix-8001</module>
   </modules>
   <packaging>pom</packaging>
 
