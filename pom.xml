@@ -18,6 +18,7 @@
     <module>microservicedemo-provider-dept-8003</module>
     <module>microservicedemo-consumer-dept-feign</module>
     <module>springclouddemo-provider-dept-hystrix-8001</module>
+    <module>microservicedemo-consumer-hystrix-dashboard</module>
   </modules>
   <packaging>pom</packaging>
 

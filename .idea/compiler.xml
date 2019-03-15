@@ -9,6 +9,7 @@
         <module name="microservicedemoapi" />
         <module name="microservicedemoconsumerdept80" />
         <module name="microservicedemoconsumerdeptfeign" />
+        <module name="microservicedemoconsumerhystrixdashboard" />
         <module name="microservicedemoeureka7001" />
         <module name="microservicedemoeureka7002" />
         <module name="microservicedemoeureka7003" />
