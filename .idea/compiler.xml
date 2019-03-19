@@ -16,6 +16,7 @@
         <module name="microservicedemoproviderdept8001" />
         <module name="microservicedemoproviderdept8002" />
         <module name="microservicedemoproviderdept8003" />
+        <module name="microservicedemozuulgateway9527" />
         <module name="springclouddemoproviderdepthystrix8001" />
       </profile>
     </annotationProcessing>
