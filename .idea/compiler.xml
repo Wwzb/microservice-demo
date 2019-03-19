@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="microservicedemoapi" />
+        <module name="microservicedemoconfig3344" />
+        <module name="microservicedemoconfigclient3355" />
         <module name="microservicedemoconsumerdept80" />
         <module name="microservicedemoconsumerdeptfeign" />
         <module name="microservicedemoconsumerhystrixdashboard" />

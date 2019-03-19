@@ -20,6 +20,8 @@
     <module>springclouddemo-provider-dept-hystrix-8001</module>
     <module>microservicedemo-consumer-hystrix-dashboard</module>
     <module>microservicedemo-zuul-gateway-9527</module>
+    <module>microservicedemo-config-3344</module>
+    <module>microservicedemo-config-client-3355</module>
   </modules>
   <packaging>pom</packaging>
 
