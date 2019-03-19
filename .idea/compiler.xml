@@ -9,6 +9,8 @@
         <module name="microservicedemoapi" />
         <module name="microservicedemoconfig3344" />
         <module name="microservicedemoconfigclient3355" />
+        <module name="microservicedemoconfigdeptclient8001" />
+        <module name="microservicedemoconfigeurekaclient7001" />
         <module name="microservicedemoconsumerdept80" />
         <module name="microservicedemoconsumerdeptfeign" />
         <module name="microservicedemoconsumerhystrixdashboard" />

@@ -22,6 +22,8 @@
     <module>microservicedemo-zuul-gateway-9527</module>
     <module>microservicedemo-config-3344</module>
     <module>microservicedemo-config-client-3355</module>
+    <module>microservicedemo-config-eureka-client-7001</module>
+    <module>microservicedemo-config-dept-client-8001</module>
   </modules>
   <packaging>pom</packaging>
 
